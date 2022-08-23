@@ -1,7 +1,7 @@
 # DurexSecurity-Privacy-Policy
 
 ## **DurexSecurity's Privacy Policy**
-### By using Durex you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
+### By using [`Durex Security`](https://discord.com/api/oauth2/authorize?client_id=1006157078924107867&permissions=8&scope=bot) you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
 ## 1. What does it store?
 
