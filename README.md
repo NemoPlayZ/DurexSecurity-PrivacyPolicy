@@ -1,7 +1,7 @@
 # DurexSecurity-Privacy-Policy
 
 ## **DurexSecurity's Privacy Policy**
-### By using Friday you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
+### By using Durex you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
 ## 1. What does it store?
 
@@ -13,6 +13,7 @@
 
  #### 1. Following people can access ALL of the data:
  -  [`- Nemo#1337`](https://discord.com/users/981583519312666635)
+ -  [`Alone[.]#1337`](https://discord.com/users/905396101274828821)
 
 #### 2. Following people can access whitelisted users / server settings data:
 - Server Owner
